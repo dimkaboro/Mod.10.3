@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public class checkRepeatsWords {
+public class CheckRepeatsWords {
     private static final String ABSOLUTE_PATH = "C:\\Users\\dmitr\\IdeaProjects\\Homerwork10.3\\src\\words.txt";
 
     public void checkWords() {
